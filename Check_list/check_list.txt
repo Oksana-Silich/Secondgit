@@ -1,0 +1,10 @@
+1) Posibility of adding goods to the basket
+2) Deleting of goods from the basket
+3) Changing quantity of goods
+4) Recalculation of amount during adding or deleting goods from the basket
+5)Posibility continue of shopping after adding goods to the basket (Button Continue shopping)
+6) Posibility to return to the basket after unexpectadly closing of browser
+7)Posibility adding of special services while buying Appliances
+8)Impossibility of actions when the basket is empty
+9) Check replacing the order
+10) Check the delivery conditions
